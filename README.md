@@ -21,12 +21,12 @@ To run the application, follow these steps:
 2. After searching, the application will display a list of books matching the search query along with their corresponding indices.
 3. Users can select a book by entering its index and then click the "View Online" button to view its reviews on the Goodreads website.
 ## Requirements
-Python 3.x
-OpenCV
-Tkinter
-Requests
-BeautifulSoup
-Pytesseract
+- Python 3.x
+- OpenCV
+- Tkinter
+- Requests
+- BeautifulSoup
+- Pytesseract
 
 ## Credits
 This project was created by Qalab Hassnain Agha. Special thanks to the developers of OpenCV, Tkinter, BeautifulSoup, and Pytesseract for their invaluable contributions to this project.
