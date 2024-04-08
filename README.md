@@ -3,11 +3,11 @@ This project is a desktop application for searching and scraping reviews from Go
 
 ## Features
 
-1. ### Search by Cover Image: 
+### Search by Cover Image: 
 Users can capture an image of a book cover using their device's camera, and the application will search for reviews based on the cover image.
-2. ### Search by Book Name:
+### Search by Book Name:
 Users can manually enter the name of a book, and the application will search for reviews based on the entered book name.
-3. ### View Reviews Online:
+### View Reviews Online:
 Once the search results are displayed, users can select a book and view its reviews online directly from the Goodreads website.
 ## Installation
 To run the application, follow these steps:
