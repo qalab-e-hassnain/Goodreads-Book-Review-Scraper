@@ -3,11 +3,11 @@ This project is a desktop application for searching and scraping reviews from Go
 
 ## Features
 
-## Search by Cover Image: 
+### Search by Cover Image: 
 Users can capture an image of a book cover using their device's camera, and the application will search for reviews based on the cover image.
-## Search by Book Name:
+### Search by Book Name:
 Users can manually enter the name of a book, and the application will search for reviews based on the entered book name.
-## View Reviews Online:
+### View Reviews Online:
 Once the search results are displayed, users can select a book and view its reviews online directly from the Goodreads website.
 ## Installation
 To run the application, follow these steps:
@@ -29,7 +29,7 @@ BeautifulSoup
 Pytesseract
 
 ## Credits
-This project was created by [Your Name]. Special thanks to the developers of OpenCV, Tkinter, BeautifulSoup, and Pytesseract for their invaluable contributions to this project.
+This project was created by Qalab Hassnain Agha. Special thanks to the developers of OpenCV, Tkinter, BeautifulSoup, and Pytesseract for their invaluable contributions to this project.
 
 ## License
 This project is licensed under the MIT License. Feel free to use, modify, and distribute it as per the terms of the license.
